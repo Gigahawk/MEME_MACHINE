@@ -1,2 +1,2 @@
-# MEME_MACHINE
-Modular 3D printer
+# YAI3
+Yet Another I3 design
